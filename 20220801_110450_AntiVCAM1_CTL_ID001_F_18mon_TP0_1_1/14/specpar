@@ -1,0 +1,40 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.1PV
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 5	$$ modification sequence number
+##ORIGIN= Bruker BioSpin MRI GmbH
+##OWNER= kahnlab
+$$ 2022-04-25 12:21:50.452 -0400  nmrsu@czc612c0zb
+$$ /opt/PV6.0.1/conf/instr/spect/specpar
+$$ process /opt/PV6.0.1/prog/mod/cprserver
+##$BF1= 400.336
+##$BF2= 400.336
+##$BF3= 400.336
+##$HPMOD= 0 0 1 0 0 0 0 0
+##$HPPRECH= (0..15)
+-1 1 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+##$NUC1= <1H>
+##$NUC2= <off>
+##$NUC3= <off>
+##$NUC4= <off>
+##$NUC5= <off>
+##$NUC6= <off>
+##$NUC7= <off>
+##$NUC8= <off>
+##$PRECHAN= (0..15)
+-1 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+##$RECPRE= (0..15)
+-1 0 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+##$RECSEL= (0..15)
+0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0
+##$SELREC= (0..9)
+0 0 0 0 0 0 0 0 0 0
+##$SFO1= 400.336
+##$SFO2= 400.336
+##$SFO3= 400.336
+##$SFO4= 400.336
+##$SFO5= 400.336
+##$SFO6= 400.336
+##$SFO7= 400.336
+##$SFO8= 400.336
+##END=

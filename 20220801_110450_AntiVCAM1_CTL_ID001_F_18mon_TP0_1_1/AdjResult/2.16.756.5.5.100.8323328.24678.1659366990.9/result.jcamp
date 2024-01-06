@@ -1,0 +1,11 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=Jia
+$$ 2022-08-01 11:18:33.339 -0400  Jia@czc612c0zb
+$$ /opt/PV6.0.1/data/Jia/20220801_110450_AntiVCAM1_CTL_ID001_F_18mon_TP0_1_1/AdjResult/2.16.756.5.5.100.8323328.24678.1659366990.9/result.jcamp
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$PVM_StudyRefPow=(4.55319374778341, <Adj by AdjRefG (protocol ADJ_REFG)>)
+##END=
+$$ File finished by PARX at 2022-08-01 11:18:33.339 -0400

@@ -1,0 +1,23 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=Jia
+$$ 2022-08-01 11:19:58.044 -0400  Jia@czc612c0zb
+$$ /opt/PV6.0.1/data/Jia/20220801_110450_AntiVCAM1_CTL_ID001_F_18mon_TP0_1_1/AdjResult/2.16.756.5.5.100.8323328.27636.1659367197.10/result.jcamp
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$PVM_FrqAdj1H=400.317015983016
+##$PVM_FrqAdj1HPpm=4.7
+##$PVM_NucleiPpmRef=( 20 )
+(<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) (<none>, 0) 
+(<none>, 0) (<none>, 0)
+##$PVM_NAdjShimsets=1
+##$PVM_AdjShimsets=( 1 )
+(0, -245, 0, 0, 0, -1079, -3319, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+##$PVM_AdjActShimset=(0, -245, 0, 0, 0, -1079, -3320, 0, 0, 0, 0, 0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+##END=
+$$ File finished by PARX at 2022-08-01 11:19:58.045 -0400

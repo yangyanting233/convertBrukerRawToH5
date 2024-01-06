@@ -1,0 +1,42 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=Jia
+$$ 2022-08-01 11:46:40.473 -0400  Jia@czc612c0zb
+$$ /opt/PV6.0.1/data/Jia/20220801_110450_AntiVCAM1_CTL_ID001_F_18mon_TP0_1_1/AdjStatePerStudy
+$$ process /opt/PV6.0.1/prog/mod/pipe
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=0
+##$AdjStudyStateAdjName=( 5, 128 )
+<BASIC_Shim> <FREQ_Standard> <SHIM_Study> <TRANSM_Standard> <WOBBLE_Standard>
+##$AdjStudyStateCategory=( 5 )
+OTHERADJ FREQ SHIM TRANSM WOBBLE
+##$AdjStudyStateTime=( 5 )
+<2022-08-01T11:16:30,345-0400> <2022-08-01T11:16:30,469-0400> 
+<2022-08-01T11:16:48,372-0400> <2022-08-01T11:17:25,953-0400> 
+<2022-08-01T11:20:56,443-0400>
+##$AdjStudyStateExpno=( 5 )
+1 1 1 1 900000
+##$AdjStudyStateState=( 5 )
+adj_successful adj_successful adj_successful adj_successful adj_failed
+##$AdjStudyStateResultId=( 5, 65 )
+<2.16.756.5.5.100.8323328.24678.1659366990.6> 
+<2.16.756.5.5.100.8323328.24678.1659366990.7> 
+<2.16.756.5.5.100.8323328.24678.1659366990.8> 
+<2.16.756.5.5.100.8323328.24678.1659366990.9> 
+<2.16.756.5.5.100.8323328.28382.1659367256.9>
+##$AdjStudyStateMethod=( 5, 128 )
+<Bruker:AdjTuneupShim> <Bruker:AdjSf> <Bruker:AdjShim> <Bruker:AdjRefG> 
+<Bruker:Wobble>
+##$AdjStudyStateMethodContext=( 5, 1024 )
+<> <> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 5 )
+(0, 0) (0, 0) (0, 1) (1, 1) (2, 0)
+##$AdjStudyStateHwChains=( 2 )
+((SHIM_CHAIN, -1), <B-GA12SHP INSERT FOR BGA20S BC94/30 (BFR W3307165/0139)
+.313915>) ((TRANS_CHAIN, -2), <2.16.756.5.5.100.8323328.25372.1526075488.3 -2 
+2 2 2 1 2 1H  0>)
+##$AdjStudyListConfigTime=1526075488
+##END=
+$$ File finished by PARX at 2022-08-01 11:46:40.473 -0400
